@@ -3,3 +3,6 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - section: guides
+        contents:
+          - guides/Python_Data_Model.ipynb
